@@ -8,4 +8,4 @@ class ClassRoom {
   }
 }
 
-export default ClassRoom
+export default ClassRoom;
