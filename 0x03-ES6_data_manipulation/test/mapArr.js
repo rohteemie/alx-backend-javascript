@@ -1,9 +1,9 @@
-const arr = [1, 2, 3, 4, 5];
+const arrs = [1, 2, 3, 4, 5];
 
-const arrMap = arr.map( (arrs) => {
+const arrMap = arrs.map( (arr) => {
   let sum = 0;
 
-  sum += arrs
+  sum += arr
   return sum;
 });
 console.log(arrMap);
